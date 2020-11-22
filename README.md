@@ -7,9 +7,9 @@ You can also check this react-app https://libarary-frontend.herokuapp.com/, whic
 
 You can use
 
-username: username
+username: `username`
 
-password: password
+password: `password`
 
 to login the app and add or modify the library.
 
